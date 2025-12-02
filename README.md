@@ -30,7 +30,7 @@ This project implements a **Hybrid Agentic Workflow**:
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Northwind-Retail-Copilot.git
+git clone https://github.com/hisham3323/Northwind-Retail-Copilot.git
 cd Northwind-Retail-Copilot
 pip install -r requirements.txt
 ```
